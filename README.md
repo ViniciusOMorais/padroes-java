@@ -1,2 +1,2 @@
-# padroes-java
- projeto padroes java
+# projeto-padroes-java
+ Projeto padrões Java
